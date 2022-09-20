@@ -8,7 +8,10 @@ const LandingPage = () => {
       <div className="row h-100">
         <div className="col-12 col-md-6  order-2 order-md-1">
           <div className="d-flex justify-content-center align-items-center h-100">
-            <img width="75%" src="/assets/images/Landing page image.svg" />
+            <img
+              className="landing-img"
+              src="/assets/images/Landing page image.svg"
+            />
           </div>
           <Link to="/create" className="d-flex d-md-none">
             <button className="btn mx-auto CTA-button">
