@@ -1,0 +1,25 @@
+.img-con {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 50%;
+  background-color: #EDE5FF;
+}
+
+.form-control:hover {
+  background-color: #F6F2FF;
+}
+
+.next-btn, .next-btn:hover {
+  background-color: #E87BF8;
+  color: white;
+  padding: 5px 26px;
+}
+
+.w-50-important {
+  width: 50% !important;
+}

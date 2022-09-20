@@ -1,0 +1,17 @@
+.detail-box-con {
+  height: 500px;
+
+}
+
+.host-by {
+  font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+}
+
+.icon-con {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
